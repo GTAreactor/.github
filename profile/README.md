@@ -6,7 +6,7 @@ GTAreactor.de ist heute ein Archiv mit Infos, Bildern und Guides zu GTA III, Vic
 
 - Website: [gtareactor.de](https://gtareactor.de)
 - Forum: [forum.gtareactor.de](https://forum.gtareactor.de/)
-- Geschichte: [Von GTA III bis GTA VI](https://github.com/GTAreactor/.github/blob/main/profile/history.md)
+- Geschichte: [Von GTA III bis GTA VI](https://github.com/GTAreactor/.github/blob/main/profile/history.md) ([English](https://github.com/GTAreactor/.github/blob/main/profile/history.en.md))
 
 ---
 
