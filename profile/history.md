@@ -34,11 +34,19 @@ Auch die Frage, wer gegründet hat, wird unterschiedlich beantwortet. Der Beitra
 
 ### 2002: Autos, Vice City und durchgearbeitete Nächte
 
+![GTAreactor im GTA-III-Design, Dezember 2002](screenshots/2002_gta3.jpg)
+
+*Dezember 2002: das GTA-III-Design, damals noch bei GamesWeb. Bild: Internet Archive.*
+
 Die ersten Wochen gehörten den Moddern. Fast täglich meldeten Overcrook und lotti neue Cars, Tools und Mods, und schon im August 2002 sorgte ein Lamborghini mit 10.000 Polygonen für die Warnung, schwächere PCs würden sich daran „totrechnen“. Im Dezember zählte das Download-Menü 171 Automodelle, 72 Mods, 74 Skins, 28 Tools und 8 Maps.
 
 Gleichzeitig begann das Warten auf Vice City. Anfang September führte Overcrook ein Interview mit Take-Two Deutschland, und ab Oktober lief der Countdown in den News mit „Vice City - GOLD!“ und „USK 16 bestätigt“. Nach zwei Tagen Ausfall meldete 50-50 am 1. Oktober „Back online!“, mit einem komplett neuen Server. Im Herbst 2002 stand GTAreactor in den Charts des GamesWeb-Netzwerks auf Platz 1. Anfang Dezember schrieb lotti, das Team habe sich „die Nächte um die Ohren geschlagen“, um neue Vice-City-Inhalte fertigzustellen.
 
 ### 2003: Explosives Wachstum und ein schwarzer Oktober
+
+![GTAreactor im Vice-City-Design, Oktober 2003](screenshots/2003_vicecity.jpg)
+
+*Oktober 2003: das Vice-City-Design. Bild: Internet Archive.*
 
 Zwischen November 2002 und April 2003 stiegen die Besucherzahlen laut der eigenen Bilanz „explosionsartig“, an Top-Tagen kamen bis zu 6.500 User. Mit dem PC-Release von Vice City im Mai 2003 wuchs die Community weiter, und Downloads wurden nun nach dem Motto „Qualität statt Quantität“ ausgewählt. Finanziert wurde das unter anderem über einen Amazon-Partnershop, und Daddeltreff stellte Webspace und Traffic kostenlos.
 
@@ -47,6 +55,10 @@ Zum ersten Geburtstag erzählte lotti, dass sich die beiden Webmaster trotz 1.00
 Umso härter traf es die Seite am 15. Oktober 2003: „FTP Server gehackt - Alle Downloads sind weg“, inklusive der Backups. Bis Dezember kursierten Gerüchte, GTAreactor sei tot, dann meldete Brik die ersten neuen Downloads. Im Februar 2004 folgte ein zweiter Angriff. Diesmal wurde die Startseite überschrieben, und statt des „tristen Reactor Alltags“ gab es stundenlang eine „Sonderausgabe der polnischen Gummibärenbande“.
 
 ### 2004 bis 2008: San Andreas, Hot Coffee und das lange Warten auf GTA IV
+
+![GTAreactor im San-Andreas-Design, August 2007](screenshots/2007_sa.jpg)
+
+*August 2007: das San-Andreas-Design, während des Wartens auf GTA IV. Bild: Internet Archive.*
 
 Am 1. März 2004 meldete 50-50 die offizielle Ankündigung von San Andreas. Im Mai lief ein zwölftägiges Driv3r-Special, und zum zweiten Geburtstag gab es ein großes San-Andreas-Update. lotti blickte dabei auf Spitzen von mehr als 5.000 Besuchern am Tag und ein Team von sechs Leuten zurück und bedankte sich bei allen, „die GTAreactor nie abgeschrieben haben“.
 
@@ -58,17 +70,29 @@ Am 12. November 2008 bekam die Seite endlich ihr neues Gewand: „Das GTA IV Des
 
 ### 2009 bis 2012: „Ist der Reactor tot? Nein!“
 
+![GTAreactor im GTA-IV-Design mit NewsReactor-Logo, Juli 2011](screenshots/2011_newsreactor.jpg)
+
+*Juli 2011: das GTA-IV-Design, inzwischen mit NewsReactor-Logo. Bild: Internet Archive.*
+
 Schon 2007 wurde im Forum unter dem Titel „GTAreactor, quo vadis?“ über die Zukunft der Seite diskutiert. Anfang 2009 fragte ein weiterer Thread, ob der Reactor tot sei, und die Antwort stand bald im Titel: „Ist der Reactor tot? Nein!“. Nach vier Monaten Pause kamen die News am 22. März 2009 mit acht Meldungen auf einen Schlag zurück. Die Seite lief nun wieder direkt unter gtareactor.de, im Mai 2010 stand ein weiterer Serverumzug an.
 
 Ab Mai 2011 öffnete sich die Seite für Games allgemein, von Minecraft über Alan Wake bis zu Steam-Sales, und das Forum trug zeitweise den Namen NewsReactor. 2011 erschienen wieder 174 News, und im Sommer gab es mit „NewsReactor TV“ sogar eine eigene kleine Reihe. Im Oktober 2011 kündigte Rockstar GTA V an, doch dem Reactor ging langsam die Energie aus. Am 9. Dezember 2012 schrieb Yashinu: „Der Reactor fährt runter...“. Das Team habe keine Zeit mehr, und der Hoster gehe demnächst offline. Und: „Es wurden auch viele Freundschaften hier geformt.“ Der Beitrag endete mit der Bitte, sich zu melden, falls jemand den Reactor am Laufen halten wolle.
 
 ### 2013: Der große Relaunch
 
+![GTAreactor im GTA-V-Design, Oktober 2013](screenshots/2013_gta5.jpg)
+
+*Oktober 2013: das GTA-V-Design nach dem Relaunch. Bild: Internet Archive.*
+
 Jemand wollte. Im Sommer 2013 fand sich ein neues Team zusammen, und am 10. September, eine Woche vor GTA V, erschien „Der große GTAreactor Relaunch 2013“. Das Versprechen von -sCottY-: „Doch 2012 sollten noch keine Reaktoren in Deutschland heruntergefahren werden!“ Das System wurde komplett neu gebaut, die alten Inhalte von GTA III bis GTA IV neu aufbereitet, dazu kamen neue GTA-V- und GTA-Online-Bereiche, ein GTA-V-Style und ein neues Forendesign.
 
 Zwischen Juli und November 2013 erschienen 34 News, darunter am 17. September „GTA V - Offizieller Verkaufsstart heute!“. Noch im Herbst folgten Updates zu GTA Online, ein Snapmatic-Gewinnspiel, und im November begann GTAreactor zu twittern. Die letzte reguläre Spiele-News erschien am 27. November 2013: „GTA San Andreas ab Dezember mobil“.
 
 ### 2018 bis 2026: Runterfahren, aber nie abschalten
+
+![GTAreactor im GTA-VI-Design, November 2026](screenshots/2026_gta6.jpg)
+
+*November 2026: das GTA-VI-Design des heutigen Archivs.*
 
 Im Februar 2018 kündigte mastersin einen größeren Umzug an, um „das Schiff zurück auf das Wasser zu bekommen“. Am 27. März 2019 folgte die ehrliche Bilanz: „Nach langer Zeit des Stillstands müssen wir uns das nun eingestehen“. 17 Jahre nach dem Start wurde die Seite archiviert. Sie blieb online, das Forum lief weiter.
 
