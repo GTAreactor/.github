@@ -1,5 +1,7 @@
 # Die Geschichte von GTAreactor
 
+> **Hinweis:** Diese Geschichte erhebt keinen Anspruch auf Vollständigkeit. Hier steht nur das, was wir bisher wissen. Du warst dabei, weißt mehr oder hast etwas zu ergänzen? Dann schreib gerne mit: [Bearbeite diese Seite](https://github.com/GTAreactor/.github/edit/main/profile/history.md), öffne einen Pull Request und erzähl die Geschichte weiter.
+
 ## Die Geschichte bisher
 
 GTAreactor begann als deutsche Anlaufstelle für Fans von Grand Theft Auto III. In den eigenen Jubiläumsbeiträgen zählt die Seite ihren Geburtstag ab dem **1. August 2002**. Zum zweiten Geburtstag schrieb lotti, wie es dazu kam: „Angefangen hat alles am 1. August 2002. ‚GTAreactor‘ war damals eine Fusion zwischen GTA3-World und ja, 50-50 :D.“
